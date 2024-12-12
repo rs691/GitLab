@@ -3,7 +3,7 @@ CSD380- J308 DevOps  Alpha Team
 
 
 
-| **Collaborators ** | **Role ** |
+| Collaborators | Role |
 |------------------------|-------------| 
 | Prof Sue 	            | Instructor|
 | Crose	            |		     |
