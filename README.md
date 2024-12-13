@@ -9,3 +9,4 @@ CSD380- J308 DevOps  Alpha Team Project
 | Crose	            |		     |
 | Partida-Jacinto       |                      |
 | Ray		            |                     |
+| Stewart           |                     |
