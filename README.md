@@ -1,4 +1,5 @@
-# GitLab
+# Educational Repo - Bellevue University - Software Development
+## GitLab
 CSD380- J308 DevOps  Alpha Team Project
 
 
